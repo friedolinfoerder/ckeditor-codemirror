@@ -1,0 +1,24 @@
+{
+  "name": "ckeditor-codemirror",
+  "version": "0.0.1",
+  "homepage": "https://github.com/friedolinfoerder/ckeditor-codemirror",
+  "authors": [
+    "Friedolin Förder <friedolinfoerder@gmx.de>"
+  ],
+  "description": "The codemirror plugin for the ckeditor (bower wrapper)",
+  "main": "codemirror/plugin.js",
+  "keywords": [
+    "ckeditor",
+    "plugin",
+    "editor",
+    "wysiwyg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
